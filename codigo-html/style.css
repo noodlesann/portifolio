@@ -1,0 +1,26 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: rgb(255, 146, 189);
+    margin: 15px;
+    padding: 10px;
+
+
+}
+
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+#header img{
+    width: auto;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid rgb(85, 1, 79);
+
+}
